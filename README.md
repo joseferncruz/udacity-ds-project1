@@ -4,8 +4,8 @@ This repository is part of the learning objectives of the [nanodegree in data sc
 
 ## Table of Contents
 
-- [Introduction](#project-motivation)
-- [The data](the-data)
+- [Introduction](#introuduction)
+- [The data](#the-data)
 - [Installation](#installation)
 - [The code](#the-code)
 - [Results](#results)
@@ -34,15 +34,16 @@ In order to view the code of this project, you can use of options:
 
 __A)__ Run the code in a local machine:
 
-1. Download or clone this repository using git on bash:
+1. Download or clone this repository using git:
 ```
-$ git clone github.com/joseferncruz/udacity-ds-project1
+git clone github.com/joseferncruz/udacity-ds-project1
+cd udacity-ds-project1/
 ```
 2. Install a python environment with jupyter notebooks/lab such (e.g., [anaconda distribution](https://www.anaconda.com/products/individual)).
 
 3. Create an environment with the required packages by running on the anaconda shell:
 ```
-$ conda env create -f ...
+conda env create -f environment.yml
 ```
 
 __B)__ Open the notebook on [Binder](addlink):

@@ -4,12 +4,12 @@ This repository is part of the learning objectives of the [nanodegree in data sc
 
 ## Table of Contents
 
-1. [Introduction](#project-motivation)
-2. [The data](the-data)
-3. [Installation](#installation)
-4. [The code](#the-code)
-5. [Results](#results)
-6. [Licensing and Acknowledgements](#Licensing-and-acknowledgements)
+- [Introduction](#project-motivation)
+- [The data](the-data)
+- [Installation](#installation)
+- [The code](#the-code)
+- [Results](#results)
+- [Licensing and Acknowledgements](#licensing-and-acknowledgements)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ __A)__ Run the code in a local machine:
 
 1. Download or clone this repository using git on bash:
 ```
-$ git clone ...
+$ git clone github.com/joseferncruz/udacity-ds-project1
 ```
 2. Install a python environment with jupyter notebooks/lab such (e.g., [anaconda distribution](https://www.anaconda.com/products/individual)).
 
@@ -45,11 +45,8 @@ $ git clone ...
 $ conda env create -f ...
 ```
 
-__B)__ Open the notebook on Binder:
+__B)__ Open the notebook on [Binder](addlink):
 
-```
-add binder
-```
 
 
 ## The code

@@ -31,9 +31,7 @@ In order to generate choropleth maps, I used this [geojson](https://data.beta.ny
 
 ## Installation
 
-In order to view and run the code of this project, you can use two options:
-
-__A)__ Run the code in a local machine:
+In order to view and run the code used in this project in your local machine, you can:
 
 1. Download or clone this repository using git:
 ```
@@ -47,10 +45,6 @@ cd udacity-ds-project1/
 conda env create -f environment.yml
 conda activate jc-udacity-ds-project1
 ```
-
-__B)__ Open the notebook on [Binder](addlink):
-
-
 
 ## The code
 

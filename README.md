@@ -24,9 +24,9 @@ This repository is part of the learning objectives of the [nanodegree in data sc
 
 ## The data
 
-The dataset is publicly available through the [New York City Open Data Initiative](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc). The version available in the directory `dataset/` was downloaded on April 9th, 2021.
+The dataset is publicly available through the [New York City Open Data Initiative](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc). The version available in the directory `dataset/Open_Restaurant_Applications.csv` was downloaded on April 9th, 2021.
 
-In order to generate choropleth maps, I used this [geojson](https://data.beta.nyc/dataset/pediacities-nyc-neighborhoods) containing the geographic limits of the [NYC Neighborhood Tabulation Areas (NTA)](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page). The geojson file can be found in the directory `dataset/`.
+In order to generate choropleth maps, I used this [geojson](https://data.beta.nyc/dataset/pediacities-nyc-neighborhoods) containing the geographic limits of the [NYC Neighborhood Tabulation Areas (NTA)](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page). The geojson file can be found in the directory `dataset/nyc_nta.json`.
 
 
 ## Installation
@@ -54,7 +54,7 @@ __B)__ Open the notebook on [Binder](addlink):
 
 ## The code
 
-The included in this project can be found in the notebook `udacity-course1.ipynb`.
+The code that led to all the analysis/figures/interactive maps used in this project can be found in the notebook `udacity-course1.ipynb`.
 
 
 ## Results

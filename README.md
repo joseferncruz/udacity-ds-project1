@@ -42,8 +42,8 @@ cd udacity-ds-project1/
 
 3. Create an environment with the required packages by running on the anaconda shell:
 ```
-conda env create -f environment.yml
-conda activate jc-udacity-ds-project1
+conda env create -f environment.yml --name myenv
+conda activate myenv
 ```
 
 ## The code

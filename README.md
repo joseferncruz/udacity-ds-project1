@@ -44,6 +44,7 @@ cd udacity-ds-project1/
 ```
 conda env create -f environment.yml --name myenv
 conda activate myenv
+jupyter lab udacity-ds-project1.ipynb
 ```
 
 ## The code

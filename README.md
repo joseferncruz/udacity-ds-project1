@@ -53,7 +53,7 @@ The code that led to all the analysis/figures/interactive maps used in this proj
 
 ## Results
 
-The main results can be found at this [blog post]().
+The main results can be found at this [medium blog post](https://jfo-cruz.medium.com/this-is-where-you-can-enjoy-the-outdoor-dining-in-new-york-city-during-the-pandemic-7c06124c2d0d).
 
 
 ## Licensing and Acknowledgements
